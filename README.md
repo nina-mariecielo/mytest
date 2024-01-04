@@ -1,2 +1,3 @@
 # mytest
-Git and GitHub Exercise
+Git and GitHub Exercise 
+January 4
