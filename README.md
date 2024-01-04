@@ -1,2 +1,2 @@
 # mytest
-Nina Cielo
+Git and GitHub Exercise
